@@ -7,7 +7,7 @@
 ## what is this repository
 this sample is all about how to implement your **OAuth Endpoint** and **DataProvider Endpoint**
 
-## what should be changed
+## what should be changed in my case
 * TODO: validate user/pwd [in this file](https://github.com/whSwitching/DataApiSample/blob/main/src/DataAPI/Providers/SimpleAuthProvider.cs)
 * TODO: implement your **SqlText** process logic [in this file](https://github.com/whSwitching/DataApiSample/blob/main/src/DataAPI/Controllers/QueryController.cs)
 
