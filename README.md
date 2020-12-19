@@ -12,4 +12,5 @@ this sample is all about how to implement your **OAuth Endpoint** and **DataProv
 * TODO: implement your **SqlText** process logic [in this file](https://github.com/whSwitching/DataApiSample/blob/main/src/DataAPI/Controllers/QueryController.cs)
 
 ## what is sql gateway service
-still working on it...
+
+check this [running demo](https://www.f5ve.cn)
