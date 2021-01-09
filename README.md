@@ -2,7 +2,7 @@
 **OAuth Endpoint** and **DataProvider Endpoint** sample for sql gateway service
 
 ## how does it work
-![workflow](https://raw.githubusercontent.com/whSwitching/DataApiSample/main/images/flow.png)
+![workflow](https://raw.githubusercontent.com/whSwitching/DataApiSample/main/images/gatewayflow.png)
 
 ## what is this repository
 this sample is all about how to implement your **OAuth Endpoint** and **DataProvider Endpoint**
